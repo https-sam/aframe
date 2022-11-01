@@ -3,7 +3,7 @@ title: Introduction
 section_title: Introduction
 type: introduction
 layout: docs
-order: 1
+order: 2
 parent_section: docs
 section_order: 1
 installation: true
